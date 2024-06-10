@@ -8,7 +8,7 @@ Having a hardware flasher is highly recommended if you plan to try insane OC.
 
 1000MHz on memory = high risk of bricking.
 
-650/700 should be good for most PS3. (Except FAT models, don't OC them).
+650/850 should be good for most PS3. (Except FAT models, don't OC them).
 
 These firmwares are mostly based on Evilnat 4.91.2 PEX beta 8 and 9 for the moment.
 
