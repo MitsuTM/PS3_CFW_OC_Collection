@@ -10,7 +10,7 @@ Having a hardware flasher is highly recommended if you plan to try insane OC.
 
 650/700 should be good for most PS3. (Except FAT models, don't OC them).
 
-These firmwares are mostly based on Evilnat 4.91.2 PEX beta 8.
+These firmwares are mostly based on Evilnat 4.91.2 PEX beta 8 and 9 for the moment.
 
 You can use ps3MFW-Builder if you don't find what you're searching here.
 A video tutorial exist.
