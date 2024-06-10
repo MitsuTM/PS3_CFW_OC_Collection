@@ -15,3 +15,6 @@ These firmwares are mostly based on Evilnat 4.91.2 PEX beta 8 and 9 for the mome
 You can use ps3MFW-Builder if you don't find what you're searching here.
 A video tutorial exist.
 https://youtu.be/V1lwz4l7Ebw?feature=shared
+
+You can already find many OC CFW in my other collection here :
+https://app.mediafire.com/0uxvp5ismnjwm
