@@ -10,7 +10,7 @@ To each PS3 models their limits.
 
 • DO NOT OVERCLOCK A 90NM FAT, they're already dying at 500/650.
 
-• 650/850 should be good for most PS3 and is the recommended limit for a 65nm RSX (Some FAR models and 20XX slism).
+• 650/850 should be good for most PS3 and is the recommended limit for a 65nm RSX (Some FATs models and 20XX slism).
 Note that you may experience shutdowns in demanding games if your NEC Tokins are too degraded. In this case, just install lower frequencies.
 
 • 700/850 is well supported by all 25XX slim and represents 90% of the gains you can get with an RSX overclock.
